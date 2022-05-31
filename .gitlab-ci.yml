@@ -98,7 +98,6 @@ release:
 
 ####################################################################################
 
-
 .test_base:
   stage: pre_release
   except:
@@ -193,4 +192,3 @@ test_3.0.alpha_manual:
     - .test_version_3.0.alpha
     - .except_nightly_test
   when: manual
-

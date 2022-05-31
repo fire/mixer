@@ -46,4 +46,3 @@ You can also get involved into the development of Mixer, discover how by reading
 The original code is Copyright (C) 2020 Ubisoft.
 
 All code of the `mixer` package is under the GPLv3 license except code of the `mixer.broadcaster` sub-package, which is under the MIT license.
-
