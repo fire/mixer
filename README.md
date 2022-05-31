@@ -27,10 +27,6 @@ Documentation is available at the web site https://ubisoft-mixer.readthedocs.io/
 
 Updates are announced in the [mixer-addon Blender Chat](https://blender.chat/channel/mixer-addon) channel.
 
-## Support
-
-The active support repository is on the [Mixer Github repository](https://github.com/ubisoft/mixer) which is part of the [Ubisoft open source](https://github.com/ubisoft) projects group.
-
 ## Community
 
 The online documentation lists the [YouTube videos](https://ubisoft-mixer.readthedocs.io/en/latest/community/on_youtube.html) posted by community members.
