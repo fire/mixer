@@ -198,6 +198,8 @@ def write_attribute(
                 # f"Attempt to write to non-existent attribute {bl_instance}.{key} : skipped"
                 return
 
+            if prop.name == "Active Paint Texture Index":
+                return
             if not prop.is_readonly:
                 try:
                     setattr(parent, key, value)
