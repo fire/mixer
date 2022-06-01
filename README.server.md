@@ -1,5 +1,7 @@
 # How to run the mixer server?
 
+Go one above this mixer folder.
+
 Execute `python.exe -m mixer.broadcaster.apps.server`.
 
 Use `python.exe -m mixer.broadcaster.apps.server --log-level DEBUG` to debug.
